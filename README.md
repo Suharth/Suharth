@@ -31,9 +31,20 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/c/c.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/java/java.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/html/html.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/css/css.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/assembly/assembly.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/racket/racket.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/cli/cli.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://github.com/Suharth/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 <div align="center">
 
