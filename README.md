@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suharth&color=000000&style=plastic" alt="My profile views" /> </p>
 
 
-<a href="https://www.linkedin.com/in/suharth-shetty/" target="_blank">
+<a href="https://www.linkedin.com/in/suharth-shetty/" target="new">
   <img align="left" alt="Suharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Suharth" target="_blank">
