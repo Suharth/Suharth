@@ -21,12 +21,7 @@
 - 🤔 I’m looking for help with career guidance.
 - 💬 Contact me for any coding project that you want to collaborate on.
 - 📫 How to reach me: [Linkedin - @Suharth Shetty](https://www.linkedin.com/in/suharth-shetty/), [Gmail - suharthshetty@gmail.com](mailto:suharthshetty@gmail.com)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to work with same minded people like me as a team.
-
-[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
-[![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/moneshvenkul)
-[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
+- ⚡ I would love to work on projects with people that have a strong work ethic.
 
 
 **Languages and Tools:**  
