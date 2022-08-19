@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning more about Full Stack Web Development with MERN Stack.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Contact me for any coding project that you want to collaborate on.
-- 📫 How to reach me: [Linkedin - @Suharth Shetty](https://www.linkedin.com/in/suharth-shetty/)
+- 📫 How to reach me: [Linkedin - @Suharth Shetty](https://www.linkedin.com/in/suharth-shetty/), [Gmail - suharthshetty@gmail.com](mailto:suharthshetty@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
