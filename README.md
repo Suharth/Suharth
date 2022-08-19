@@ -9,6 +9,9 @@
 <a href="https://github.com/Suharth">
   <img align="left" alt="Suharth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://medium.com/@suharthshetty">
+  <img align="left" alt="Suharth's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
+</a>
 
 <br/>
 <br/>
