@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suharth&color=000000&style=plastic" alt="My profile views" /> </p>
 
 
-<a href="https://www.linkedin.com/in/suharth-shetty/">
+<a href="https://www.linkedin.com/in/suharth-shetty/" target="_blank">
   <img align="left" alt="Suharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Suharth">
+<a href="https://github.com/Suharth" target="_blank">
   <img align="left" alt="Suharth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@suharthshetty">
+<a href="https://medium.com/@suharthshetty" target="_blank">
   <img align="left" alt="Suharth's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
 </a>
 
