@@ -1,6 +1,6 @@
 ## Hello, I'm [Suharth Shetty!](https://suharth.github.io/portfolio/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suharth&color=000&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suharth&color=000000&style=plastic" alt="moneshvenkul" /> </p>
 
 
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
