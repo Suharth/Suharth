@@ -16,8 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently a student in VIT, Vellore(B.Tech in ECE) and [Almabetter](https://www.almabetter.com/)(Full Stack Web Development with Web3).
-- 🌱 I’m currently learning more about Full Stack Web Development with MERN Stack.
+- 🔭 I’m currently a student in VIT, Vellore(B.Tech in ECE).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Contact me for any coding project that you want to collaborate on.
 - 📫 How to reach me: [Linkedin - @Suharth Shetty](https://www.linkedin.com/in/suharth-shetty/), [Gmail - suharthshetty@gmail.com](mailto:suharthshetty@gmail.com)
